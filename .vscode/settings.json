@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 24,
+    "files.readonlyFromPermissions": true,
+    "files.readonlyInclude": {
+        "/usr/include/**/*.h": true
+    }
+}
